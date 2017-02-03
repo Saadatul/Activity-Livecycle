@@ -1,6 +1,7 @@
 # Activity-Livecycle
 
 ![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONQ3Y0VE1RN2RxNXc)
+![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONYWc5QXFRUFpGR28)
 
 Nama : Sa'adatul Sholehah <br>
 Kelas : XIRPL6 <br>
